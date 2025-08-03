@@ -6,7 +6,10 @@ Este repositorio contiene un notebook de Google Colab que realiza un análisis e
 
 ## 👤 Autor
 
-Andres Evans – [@aevans32](https://github.com/aevans32)
+Andres Evans 
+– [@aevans32](https://github.com/aevans32)
+
+👤 **Autor:** [Andres Evans](https://github.com/aevans32)
 
 ---
 
