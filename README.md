@@ -14,6 +14,15 @@ LinkedIn: [andresevans](https://www.linkedin.com/in/andresevans/)
 
 ---
 
+## 📝 Instrucciones
+
+1. Descargar el archivo `InsuranceCompany.csv` desde Blackboard.
+2. Abrir el notebook en Google Colab.
+3. Subir el archivo CSV al entorno de Colab.
+4. Ejecutar todas las celdas desde el menú `Entorno de ejecución > Ejecutar todo`.
+
+---
+
 ## 🧪 Dataset
 
 El archivo de datos utilizado se llama **`InsuranceCompany.csv`** y contiene información sobre clientes, primas, edad, ingresos, historial de pagos y si renovaron su póliza (`renewal`).
@@ -23,15 +32,6 @@ El archivo de datos utilizado se llama **`InsuranceCompany.csv`** y contiene inf
 > **Machine Learning para la Toma de Decisiones**
 
 Para ejecutar el notebook correctamente, los estudiantes deben descargar el archivo desde Blackboard y colocarlo en el mismo directorio que el notebook.
-
----
-
-## 📝 Instrucciones
-
-1. Descargar el archivo `InsuranceCompany.csv` desde Blackboard.
-2. Abrir el notebook en Google Colab.
-3. Subir el archivo CSV al entorno de Colab.
-4. Ejecutar todas las celdas desde el menú `Entorno de ejecución > Ejecutar todo`.
 
 ---
 
