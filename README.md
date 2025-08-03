@@ -7,8 +7,8 @@ Este repositorio contiene un notebook de Google Colab que realiza un análisis e
 ## 👤 Autor
 
 **Andres Evans**
-– [@aevans32](https://github.com/aevans32)
 GitHub: [@aevans32](https://github.com/aevans32)
+
 LinkedIn: [andresevans](https://www.linkedin.com/in/andresevans/))
 
 ---
