@@ -4,6 +4,12 @@ Este repositorio contiene un notebook de Google Colab que realiza un análisis e
 
 ---
 
+## 👤 Autor
+
+Andres Evans – [@aevans32](https://github.com/aevans32)
+
+---
+
 ## 🧪 Dataset
 
 El archivo de datos utilizado se llama **`InsuranceCompany.csv`** y contiene información sobre clientes, primas, edad, ingresos, historial de pagos y si renovaron su póliza (`renewal`).
@@ -54,7 +60,3 @@ Sirve como una guía práctica para aplicar conceptos fundamentales de preparaci
 4. Ejecutar todas las celdas desde el menú `Entorno de ejecución > Ejecutar todo`.
 
 ---
-
-## 📩 Contacto
-
-Para dudas sobre el código o uso del notebook, por favor contacta al profesor o al equipo docente del curso a través del aula virtual.
