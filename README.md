@@ -26,6 +26,15 @@ Para ejecutar el notebook correctamente, los estudiantes deben descargar el arch
 
 ---
 
+## 📝 Instrucciones
+
+1. Descargar el archivo `InsuranceCompany.csv` desde Blackboard.
+2. Abrir el notebook en Google Colab.
+3. Subir el archivo CSV al entorno de Colab.
+4. Ejecutar todas las celdas desde el menú `Entorno de ejecución > Ejecutar todo`.
+
+---
+
 ## 📘 Contenido del notebook
 
 El notebook incluye:
@@ -53,14 +62,5 @@ El notebook incluye:
 
 Este notebook fue escrito específicamente para apoyar el aprendizaje de los **alumnos del curso de Machine Learning para la Toma de Decisiones** de la **Universidad del Pacífico**.  
 Sirve como una guía práctica para aplicar conceptos fundamentales de preparación de datos, codificación, normalización y visualización antes de entrenar un modelo de clasificación.
-
----
-
-## 📝 Instrucciones
-
-1. Descargar el archivo `InsuranceCompany.csv` desde Blackboard.
-2. Abrir el notebook en Google Colab.
-3. Subir el archivo CSV al entorno de Colab.
-4. Ejecutar todas las celdas desde el menú `Entorno de ejecución > Ejecutar todo`.
 
 ---
